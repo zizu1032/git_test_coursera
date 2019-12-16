@@ -1,0 +1,24 @@
+{
+  "name": "git_test_coursera",
+  "version": "1.0.0",
+  "description": "coursera test npm",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zizu1032/git_test_coursera.git"
+  },
+  "author": "ZIZOU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zizu1032/git_test_coursera/issues"
+  },
+  "homepage": "https://github.com/zizu1032/git_test_coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
